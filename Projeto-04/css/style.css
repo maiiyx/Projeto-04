@@ -1,0 +1,297 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    margin: auto;
+    width: 1280px;
+}
+
+.cabecalho{
+    font-family: 'Ubuntu', sans-serif;
+    height: 50px;
+    width: 351px;
+    left: 10px;
+    top: 24px;
+    border-radius: nullpx;
+
+    font-size: 20pt;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 0em;
+    text-align: left;
+         
+    position: absolute;
+    width: 351px;
+    height: 50px;
+    left: 10px;
+    top: 24px;
+    
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20pt;
+    line-height: 50px;
+    
+    color: #000000;
+}
+
+.nav-link{
+    position: absolute;
+    width: 81.65px;
+    height: 40px;
+    left: 1083.52px;
+    top: 29px;
+    text-decoration: none;
+    position: absolute;
+    width: 292.32px;
+    height: 50px;
+    left: 977.68px;
+    top: 24px;
+    text-align: center;
+    align-items: center;
+    background: #252525;
+    border-radius: 8px;
+    padding: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 50px;
+    color: #FFFFFF;
+}
+
+.menu{
+    height: 55px;
+    width: 1260px;
+    left: 10px;
+    top: 90px;
+
+    border-radius: 0px;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    width: 1260px;
+    height: 55px;
+    left: 10px;
+    top: 90px;
+    font-size: 20pt;
+    
+    font-family: 'Roboto', sans-serif;
+    background: #FFFFFF;
+    border-width: 1px 0px;
+    border-style: solid;
+    border-color: #000000;
+}
+
+main{
+    height: 1210px;
+    width: 1260px;
+    left: 10px;
+    top: 155px;
+    border-radius: 0px;    
+}
+
+.primeira{
+    height: 295px;
+    width: 727px;
+    left: 10px;
+    top: 155px;
+    border-radius: 0px;
+    position: absolute;
+    width: 727px;
+    height: 295px;
+    left: 10px;
+    top: 155px;    
+}
+.segunda{
+    height: 600px;
+    width: 515px;
+    left: 755px;
+    top: 155px;
+    border-radius: 0px;
+    position: absolute;
+    width: 515px;
+    height: 600px;
+    left: 755px;
+    top: 155px;    
+}
+.terceira{
+    height: 295px;
+    width: 353px;
+    left: 10px;
+    top: 460px;
+    border-radius: 0px;
+    position: absolute;
+    width: 353px;
+    height: 295px;
+    left: 10px;
+    top: 460px;    
+}
+.quarta{
+    height: 295px;
+    width: 354px;
+    left: 383px;
+    top: 460px;
+    border-radius: 0px;
+    position: absolute;
+    width: 354px;
+    height: 295px;
+    left: 383px;
+    top: 460px;    
+}
+.quinta{
+    height: 600px;
+    width: 515px;
+    left: 10px;
+    top: 765px;
+    border-radius: 0px;
+    position: absolute;
+    width: 515px;
+    height: 600px;
+    left: 10px;
+    top: 765px;    
+}
+.sexta{
+    height: 295px;
+    width: 727px;
+    left: 543px;
+    top: 765px;
+    border-radius: 0px;
+    position: absolute;
+    width: 727px;
+    height: 295px;
+    left: 543px;
+    top: 765px;    
+}
+.setima{
+    height: 295px;
+    width: 354px;
+    left: 543px;
+    top: 1070px;
+    border-radius: 0px;
+    position: absolute;
+    width: 354px;
+    height: 295px;
+    left: 543px;
+    top: 1070px;    
+}
+.oitava{
+    height: 295px;
+    width: 354px;
+    left: 916px;
+    top: 1070px;
+    border-radius: 0px;
+    position: absolute;
+    width: 354px;
+    height: 295px;
+    left: 916px;
+    top: 1070px;    
+}
+
+footer{
+    height: 228px;
+    width: 1280px;
+    left: 0px;
+    top: 1375px;
+    border-radius: 0px;
+    position: absolute;
+    width: 1280px;
+    height: 228px;
+    left: 0px;
+    top: 1375px;    
+}
+
+.fundo{
+    position: absolute;
+    width: 1280px;
+    height: 1603px;
+    left: 0px;
+    top: 0px;
+    background: rgba(0, 0, 0, 0.71);
+}
+
+.caixa-login{
+    height: 500px;
+    width: 1040px;
+    left: 123px;
+    top: 184px;
+    border-radius: 31px;
+    position: absolute;
+    width: 1040px;
+    height: 500px;
+    left: 123px;
+    top: 184px;
+    background: #E6E5E5;
+    border-radius: 31px;   
+    
+    /* login */
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 45px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-align: center;
+    padding: 20px;
+
+    /* x */
+   
+}
+
+.campo-email{
+    position: absolute;
+    width: 834px;
+    height: 100px;
+    left: 223px;
+    top: 296px;
+    margin-left: 70px;
+}
+.campo-senha{
+    position: absolute;
+    width: 835px;
+    height: 100px;
+    left: 223px;
+    top: 414px;
+    margin-left: 70px;
+}
+
+.form input{
+    /* digitar */
+    align-items: center;
+    display: flex;
+    align-items: center;
+    padding: 30px;
+
+    width: 834px;
+    height: 65px;
+    left: 223px;
+    top: 331px;
+    
+    font-size: 24px;
+
+    margin-left: 70px;
+}
+
+input{
+    height: 65px;
+    width: 834px;
+    left: 223px;
+    top: 331px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    margin-left: 70px;
+}
+.nome{
+    display: flex;
+    align-items: flex-start;
+    padding: 15px;
+    margin-left: 70px;
+}
+.botao{
+    margin-left: 526px;
+    margin-top: 54px;
+}
